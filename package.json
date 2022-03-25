@@ -1,0 +1,20 @@
+{
+  "name": "html-to-hast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hast-util-from-parse5": "^7.1.0",
+    "next": "^12.1.0",
+    "parse5": "^6.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
